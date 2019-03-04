@@ -9,7 +9,8 @@ import java.util.Arrays;
 public class AddItemToInventroy {
 
     @Test
-    public void test0() {
+    public void test0()
+    {
         test("");
     }
 
